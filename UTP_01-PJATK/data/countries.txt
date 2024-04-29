@@ -1,0 +1,3 @@
+Republic of Poland    Warsaw    38500
+Czech Republic    Prague    10500
+Kingdom of Spain    Madrid    46599
